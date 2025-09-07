@@ -1,1 +1,0 @@
-document.getElementById("myh1").innerHTML="Hello";
